@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_33"
+               BlueprintIdentifier = "OBJ_36"
                BuildableName = "CommandLineKit.framework"
                BlueprintName = "CommandLineKit"
                ReferencedContainer = "container:FengNiaoModify.xcodeproj">
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_42"
+               BlueprintIdentifier = "OBJ_45"
                BuildableName = "Rainbow.framework"
                BlueprintName = "Rainbow"
                ReferencedContainer = "container:FengNiaoModify.xcodeproj">
@@ -42,9 +42,23 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_59"
+               BlueprintIdentifier = "OBJ_62"
                BuildableName = "FengNiaoModify"
                BlueprintName = "FengNiaoModify"
+               ReferencedContainer = "container:FengNiaoModify.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "OBJ_75"
+               BuildableName = "FengNiaoModifyKit.framework"
+               BlueprintName = "FengNiaoModifyKit"
                ReferencedContainer = "container:FengNiaoModify.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -73,7 +87,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "OBJ_33"
+            BlueprintIdentifier = "OBJ_36"
             BuildableName = "CommandLineKit.framework"
             BlueprintName = "CommandLineKit"
             ReferencedContainer = "container:FengNiaoModify.xcodeproj">
